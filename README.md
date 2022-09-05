@@ -28,4 +28,9 @@ In adittion, the team obtained some analysis for the suspension coils, as shown 
 
 From the design specifications, the suspension coils must not exceed 100 pounds per square inch. As a result, from the chart above Lot 3 does not meet this criteria, exceeding the capacity with a variance of 170.286. Lot 1 and Lot 2 does satidfactory meet the required criteria.
 
-Finally a t-test of each lot is run to measure the size of the difference of the variation (means of two groups), in this case the three confirm that we correctly rejected H0. However lot 1 has a high p-value (=1), further attention shoulb be put to this result to assess wether it can be improved. 
+Finally a t-test of each lot is run to measure the size of the difference of the variation (means of two groups), in this case the three confirm that we correctly rejected H0. However lot 1 has a high p-value (=1), further attention shoulb be put to this result to assess wether the predictive potential can be improved. 
+
+![t_test](https://user-images.githubusercontent.com/7553779/188367822-aafb6faf-9346-4e58-bd60-88a88052fcde.png)
+
+
+
